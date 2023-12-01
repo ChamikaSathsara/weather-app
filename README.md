@@ -1,4 +1,4 @@
-<div align='center'>
+<div align='left'>
 
 <img src=https://github.com/ChamikaSathsara/weather-app/blob/main/ScreenShots/Screenshot%202023-12-02%20022051.png alt="logo" width=1366 height=600 />
 
