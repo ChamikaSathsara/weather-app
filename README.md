@@ -1,71 +1,48 @@
-# Getting Started with Create React App
+<div align='center'>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src=https://github.com/ChamikaSathsara/weather-app/blob/main/ScreenShots/Screenshot%202023-12-02%20022051.png alt="logo" width=1366 height=768 />
 
-## Available Scripts
+<h1>Wether Display App Using API</h1>
+<p>🌍 Welcome to WeatherWonders – Your Passport to Meteorological Marvels! 🌦️ Embark on a journey with us as we unveil the atmospheric symphony playing above every inch of Earth. At WeatherWonders, we weave science and artistry to bring you the most vibrant and dynamic weather experiences. 🎨✨ ### How to Immerse Yourself in WeatherWonders: 📍 **Location Magic:** - Dive into the atmospheric dance of any place on Earth. - Unearth the secrets of the skies above your favorite destinations. - Just name a spot, and we'll unveil its meteorological melody. 🌈 **Multisensory Data Extravaganza:** - Immerse yourself in a rainbow of weather data formats – JSON, XML, or HTML. - Feel the pulse of the planet through our meticulously collected data. - It's not just information; it's a sensory celebration! 📡 **Global Symphony of Sources:** - Marvel at the harmonious blend of global weather models, satellites, radars, and a vast network of weather stations. - Witness the collaboration of technology and nature in creating our spellbinding weather compositions. - We are not just observers; we are orchestrators of meteorological masterpieces. 🚀 **Beyond the Forecast:** - Step into the future with our cutting-edge predictions. - Experience weather narratives that go beyond the ordinary – it's not just about rain or shine; it's about storytelling in every droplet and ray. 🎁 **Customized Weather Feasts:** - Tailor your weather experience with our APIs – the magic wand to create your weather dreams. - Choose your data format, pick your favorite sources, and let us craft a weather symphony uniquely for you. 🌌 **Meteorological Art Gallery:** - Behold the beauty of weather through our curated visual displays. - From mesmerizing cloud formations to dramatic storm sequences, we present weather as the grand masterpiece it truly is. ⚡ **WeatherWonders – Where Data Meets Dazzle!** ⚡ Prepare to be enchanted as we unravel the wonders of weather, making every forecast an artistic adventure. Whether you're a seasoned meteorologist or a curious wanderer, join us in celebrating the atmospheric marvels that paint the canvas of our world! 🌐🎆</p>
 
-In the project directory, you can run:
+<h4> <span> · </span> <a href="https://github.com/ChamikaSathsara/weather-app/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/ChamikaSathsara/weather-app/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/ChamikaSathsara/weather-app/issues"> Request Feature </a> </h4>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+</div>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# :notebook_with_decorative_cover: Table of Contents
 
-### `npm test`
+- [About the Project](#star2-about-the-project)
+- [Contact](#handshake-contact)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## :star2: About the Project
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### :camera: Screenshots
+<div align="center"> <a href=""><img src="https://github.com/ChamikaSathsara/weather-app/blob/main/ScreenShots/Screenshot%202023-12-02%20021652.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://github.com/ChamikaSathsara/weather-app/blob/main/ScreenShots/Screenshot%202023-12-02%20021814.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://github.com/ChamikaSathsara/weather-app/blob/main/ScreenShots/Screenshot%202023-12-02%20021845.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://github.com/ChamikaSathsara/weather-app/blob/main/ScreenShots/Screenshot%202023-12-02%20021929.png" alt='image' width='800'/></a> </div>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### :dart: Features
+- Serch by City
+- See Weather Temperature
+- See Wind Speed
+- See Humidity
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### :art: Color Reference
+| Color | Hex |
+| --------------- | ---------------------------------------------------------------- |
+| Primary Color | ![#2470e1](https://via.placeholder.com/10/2470e1?text=+) #2470e1 |
+| Secondary Color | ![#0e0e0f](https://via.placeholder.com/10/0e0e0f?text=+) #0e0e0f |
+| Accent Color | ![#7382de](https://via.placeholder.com/10/7382de?text=+) #7382de |
+| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## :handshake: Contact
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Chamika Sathsara Pathirage - - chamikasathsara1@gmail.com
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# weather-app
+Project Link: [https://github.com/ChamikaSathsara/weather-app](https://github.com/ChamikaSathsara/weather-app)
